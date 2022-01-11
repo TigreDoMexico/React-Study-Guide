@@ -1,2 +1,5 @@
 # React-Study-Guide
-Repositório para guardar os estudos e anotações das mudanças do React
+
+## Estrutura do Projeto
+
+Este projeto contém 5 páginas que mostram formas diferentes de realizar a mesma tarefa utilizando as Classes ou os Hooks do React
